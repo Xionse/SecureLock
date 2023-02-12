@@ -20,3 +20,6 @@ Take advantage of our sleek and intuitive user interface that makes managing you
 To get started with SecureLock, simply sign up for a free account. Once you've signed up, you can start storing and managing your passwords and other sensitive information. Our user-friendly interface makes it easy to get started, and our cross-platform integration means you can access your information from anywhere.
 
 If you're interested in our paid version for families and businesses, please contact us to learn more.
+
+## Support
+If you need help with SecureLock, please don't hesitate to reach out. Our support team is always here to help you with any questions or concerns you may have.
