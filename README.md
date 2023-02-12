@@ -23,3 +23,6 @@ If you're interested in our paid version for families and businesses, please con
 
 ## Support
 If you need help with SecureLock, please don't hesitate to reach out. Our support team is always here to help you with any questions or concerns you may have.
+
+## Contributing
+If you're interested in contributing to SecureLock, please contact us. We're always looking for talented developers and security experts to help us build the best password manager on the market.
