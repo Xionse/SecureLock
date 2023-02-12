@@ -26,3 +26,6 @@ If you need help with SecureLock, please don't hesitate to reach out. Our suppor
 
 ## Contributing
 If you're interested in contributing to SecureLock, please contact us. We're always looking for talented developers and security experts to help us build the best password manager on the market.
+
+## License
+SecureLock is released under the [Insert License Here]. Please see the LICENSE file for more information.
