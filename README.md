@@ -15,3 +15,8 @@ Take advantage of our sleek and intuitive user interface that makes managing you
 * Encrypted password storage
 * Ability to store and manage a wide range of sensitive information, including passwords, credit card information, and personal data
 * Sleek and intuitive user interface
+
+## Getting started
+To get started with SecureLock, simply sign up for a free account. Once you've signed up, you can start storing and managing your passwords and other sensitive information. Our user-friendly interface makes it easy to get started, and our cross-platform integration means you can access your information from anywhere.
+
+If you're interested in our paid version for families and businesses, please contact us to learn more.
